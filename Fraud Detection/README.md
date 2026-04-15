@@ -1,6 +1,8 @@
 # Real-Time Fraud Detection System
 
-This directory contains the entire streaming architecture precisely mapped to your requirements.
+### Video Demo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0792b6e9dd2a4a5e8463ec914f5bed0f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## 1. Boot up the Infrastructure
 Open a terminal here and start Kafka and TimescaleDB:
