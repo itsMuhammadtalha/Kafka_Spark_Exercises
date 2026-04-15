@@ -1,8 +1,5 @@
-# Real-Time Fraud Detection System
 
-### Video Demo
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0792b6e9dd2a4a5e8463ec914f5bed0f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Video Demo](https://cdn.loom.com/sessions/thumbnails/0792b6e9dd2a4a5e8463ec914f5bed0f-with-play.gif)](https://www.loom.com/share/0792b6e9dd2a4a5e8463ec914f5bed0f)
 
 ## 1. Boot up the Infrastructure
 Open a terminal here and start Kafka and TimescaleDB:
