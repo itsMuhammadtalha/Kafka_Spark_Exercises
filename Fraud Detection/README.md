@@ -1,5 +1,7 @@
 
-[![Video Demo](https://cdn.loom.com/sessions/thumbnails/0792b6e9dd2a4a5e8463ec914f5bed0f-with-play.gif)](https://www.loom.com/share/0792b6e9dd2a4a5e8463ec914f5bed0f)
+
+
+▶️ Watch demo: https://www.loom.com/share/0792b6e9dd2a4a5e8463ec914f5bed0f
 
 ## 1. Boot up the Infrastructure
 Open a terminal here and start Kafka and TimescaleDB:
