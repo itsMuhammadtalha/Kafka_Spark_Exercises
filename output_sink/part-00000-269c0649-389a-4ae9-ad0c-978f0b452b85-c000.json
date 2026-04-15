@@ -1,0 +1,3 @@
+{"id":"msg-21","amount":2100,"amount_with_tax":2310.0,"processed_by":"spark-streaming"}
+{"id":"msg-22","amount":2200,"amount_with_tax":2420.0,"processed_by":"spark-streaming"}
+{"id":"msg-23","amount":2300,"amount_with_tax":2530.0,"processed_by":"spark-streaming"}

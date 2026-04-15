@@ -1,0 +1,6 @@
+pyspark==3.5.1
+kafka-python-ng==2.2.2
+pandas
+streamlit
+sqlalchemy
+psycopg2-binary
