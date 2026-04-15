@@ -1,6 +1,6 @@
 # Kafka & Spark Streaming Exercises
 
-A real-time, event-driven streaming pipeline utilizing Apache Kafka, PySpark Structured Streaming, TimescaleDB, and a Streamlit dashboard.
+▶️ Watch demo: https://www.loom.com/share/0792b6e9dd2a4a5e8463ec914f5bed0f
 
 ## Prerequisites
 - Docker & Docker Compose
